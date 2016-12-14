@@ -708,7 +708,7 @@ var numConditions = allConditions.length;
 var chooseCondition = random(0, numConditions-1);
 
 // Number of trials in each condition
-var numTrials = 5
+var numTrials = 50
 
 // Based on condition number, choose set of input (trials) and shuffle them
 var allTrialOrders = shuffle(allConditions[chooseCondition]).slice(0, numTrials);
