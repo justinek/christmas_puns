@@ -1,0 +1,51 @@
+sentenceID	sentence	h1	h2
+1	What is Santa's favourite pizza? One that's deep #pan, crisp and even	pan	and
+2	What does Santa suffer from if he gets stuck in a chimney? #Claustrophobia	claustrophobia	claus
+3	Why does Santa have three gardens? So he can #ho #ho #ho	ho	hoe
+4	What do they sing at a snowman's birthday party? #Freeze a jolly good fellow	freeze	he's
+5	How did Scrooge win the football game? The ghost of Christmas #passed	passed	past
+6	Who delivers presents to baby sharks at Christmas? Santa #Jaws	jaws	claus
+7	What did Santa say to the smoker? Please don't smoke, it's bad for my #elf	elf	health
+8	Did Rudolph go to school? No. He was #elf taught	elf	self
+9	How do snowmen get around? They ride an #icicle	icicle	bycicle
+10	Who hides in the bakery at Christmas A mince #spy	spy	pie
+11	What does Julian Assange put on his Christmas turkey? An anonymous #sauce	sauce	source
+12	What's the most popular Christmas #wine? I don't like Brussels sprouts	wine	whine
+13	What did the beaver say to the Christmas Tree? Nice #gnawing you	gnawing	knowing
+14	What do you get if you cross a bell with a skunk? Jingle #smells	smells	bells
+15	What is a mathematician's favourite Christmas snack? A mince #pi	pi	pie
+16	How do you know if Santa is really a werewolf? He has Santa #claws	claws	claus
+17	Why did Frosty go to live in the middle of the ocean? Because #snow man is an island	snow	no
+18	Why don't you ever see Father Christmas in hospital? Because he has private #elf care	elf	health
+19	What do snowmen eat for breakfast? #Ice crispies	ice	rice
+20	Who corrects Santa's grammar? A subordinate #claus	claus	clause
+21	What does Miley Cyrus have for her Christmas dinner? #Twerky	twerky	turky
+22	Why did Santa have to go to the hospital? Because of his poor #elf	elf	health
+23	Which Christmas carol is used in hospitals to rehydrate patients? The Holly and the #3IV	IV	ivy
+24	How do you know if Santa's been in your garden shed? You've got three extra #hoes	hoes	hos
+25	What holiday drink gets on your nerves? Egg #nag	nag	nog
+26	Why did Rudolph the reindeer have the collected works of Shakespeare on his top lip? His nose was well #red	red	read
+27	What nationality is Santa Claus? North #Polish	polish	pole
+28	How does an Eskimo put his Christmas decorations on? #Igloos it on	igloos	glues
+29	What will happen if you're naughty before Christmas? #Yule be sorry	yule	you'll
+30	What is Snoop Dogg's favourite part of a present? The #rapping paper	rapping	wrapping
+31	What's a farmer's favorite Christmas carol? I'm Dreaming of a #Wheat Christmas	wheat	white
+32	What Christmas carol does Swiss cheese like to sing? Deck the #holes	holes	halls
+33	Why are there no jokes about turkey giblets? Because the punchlines are #offal	offal	awful
+34	Why does Santa Claus go down the chimney on Christmas Eve? Because it #soots him	soots	suits
+35	What do snowmen eat for breakfast? #Snowflakes	snowflakes	cornflakes
+36	Why did Santa go to jail? He #sleighed an elf	sleighed	slayed
+37	what do you call an elf that can sing? A #wrapper	wrapper	rapper
+38	Why was Santa forced to attend a Christmas party because his #presents was required. 	presents	presence
+39	The North Pole doesn't import goods because it's #Elf Sufficient. 	elf	self
+40	Christmas tree trend started because people thought it would #spruce things up a bit. 	spruce	spice
+41	Santa Claus' favorite swimming spot is the North #Pool. 	pool	pole
+42	What name does Santa Claus use when he takes a rest from delivering presents? Santa #Pause! 	pause	claus
+43	What does Santa like to eat? A #jolly roll	jolly	jelly
+44	How does Santa Claus take pictures? With his North #Polaroid	polaroid	pole
+45	What did Tarzan sing at Christmas time? #Jungle Bells	jungle	jingle
+46	Why was Santa's little helper depressed? Because he had low #elf esteem.	elf	self
+47	What do you get if you cross a Yule Log with a duck? A Fire #Quacker	quacker	cracker
+48	Who delivers Christmas presents to dogs? Santa #Paws	paws	claus
+49	What happened when Santa's cat swallowed a ball of yarn? She had #mittens	mittens	kittens
+50	How does Mickey Mouse get around during the winter? #Mice skates.	mice	ice
